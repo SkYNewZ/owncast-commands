@@ -1,0 +1,5 @@
+commands:
+  - trigger: "!uptime"
+    template: 'Stream online since {{ uptime }}'
+  - trigger: "!hello"
+    template: "Hey :waving_hand: !"
